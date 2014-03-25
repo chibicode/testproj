@@ -17,5 +17,5 @@
 //= require angular-resource
 //= require angular-mocks
 //= require main.js
-//= require_tree ./angular
-//= require_tree .
+//# require_tree ./angular
+//# require_tree .
